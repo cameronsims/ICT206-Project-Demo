@@ -1,0 +1,15 @@
+﻿  connection.c
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\connection.c(10,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\connection.c(53,16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+  random.c
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\random.c(12,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\random.c(37,41): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  road.c
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\road.c(17,16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\road.c(33,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\road.c(118,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  road_ll.c
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\road_ll.c(31,10): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\road_ll.c(170,25): warning C4047: 'initializing': 'road_LinkedListNode **' differs in levels of indirection from 'road_LinkedListNode *'
+D:\UNI\Semester 2\ICT206\project-demo\data\ICT206ProjectCSVGenerator\road_ll.c(180,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
